@@ -4,6 +4,6 @@ sap.ui.define([
     "use strict";
 
     new Text ({
-        text : "Hello Ui5 Tut"
+        text : "Hello Ui5 Tut Lol"
     }).placeAt("content")
 });
